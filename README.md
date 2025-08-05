@@ -2,9 +2,9 @@
 This is the official implementation repository for the paper titled "Lung Cancer Screening Classification by Sequential Multi-Instance Learning (SMILE) Framework with Multiple CT Scans", which is published on IEEE Transactions on Medical Imaging. 
 
 # Requirements
-Keras >= 3.0
-TensorFlow >= 2.16.0
-SimpleITK
+* Keras >= 3.0
+* TensorFlow >= 2.16.0
+* SimpleITK
 
 # Citing the work
 ```
